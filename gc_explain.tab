@@ -1,0 +1,4 @@
+counter = 500_000_000
+size heap		time(sec)
+Xmx256m				267
+	
